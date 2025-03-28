@@ -1,0 +1,20 @@
+🌍 HELLO HELLO LINKEDIN FAMILY 🌍
+✨ Day 28 ✨
+🌟 You’re my priority one bug—I can’t ignore you, no matter how hard I try.
+ ( Testing ) 🌟
+
+🎯 Testing E-commerce Checkout Flow with Selenium & TestNG 🎯
+
+Today I automated the end-to-end checkout process of a shopping website using Selenium WebDriver with TestNG framework!
+Here's a quick overview of my implementation
+
+🔹 Test Scenario
+Automated the complete flow from product selection to checkout using Chrome browser.
+
+🔹 Key Components
+Used TestNG annotations with priorities (1-4) to maintain execution sequence
+
+🔻 @Test(priority=1) - Launch Chrome browser
+🔻 @Test(priority=2) - View product description & add to cart
+🔻 @Test(priority=3) - Navigate to cart
+🔻 @Test(priority=4) - Complete checkout process
